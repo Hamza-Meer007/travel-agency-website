@@ -1,10 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
 
   <br />
   <br />
@@ -36,13 +31,13 @@ To run **Tourest** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourest.git
+sudo git clone https://github.com/Hamza-Meer007/travel-agency-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourest.git
+git clone https://github.com/Hamza-Meer007/travel-agency-website.git
 ```
 
 ### Contact
